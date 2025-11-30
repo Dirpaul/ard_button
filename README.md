@@ -1,2 +1,2 @@
 # ard_button
-processgin button click at arduino. one/double/triple/hold
+processing button click at arduino. one/double/triple/hold
